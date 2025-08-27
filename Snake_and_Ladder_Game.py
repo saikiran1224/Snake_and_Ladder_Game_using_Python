@@ -1,5 +1,4 @@
 import random as rd 
-import sys 
 
 # Creating a dice method having 1 to 6 values - when function called dice gets rolled programatically
 def roll_dice(): return (rd.randrange(1,6))
